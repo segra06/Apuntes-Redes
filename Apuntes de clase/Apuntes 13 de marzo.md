@@ -91,4 +91,60 @@
 - Clases de ISP.
 - Multiples paths, investigar.
 
-- Objetivos:
+# Las 7 capas
+
+- Cada capa se encarga de algo y le da paso a la siguiente.
+
+# Protocol Layering
+
+![alt text](/Apuntes%20de%20clase/Imágenes/image.png)
+
+- En esta imagen se observa que lo que el usuario envía mediante un protocolo, el que recibe debe de recibirlo y pasarlo por el proceso en inversa.
+- Es importante recalcar los servicios orientados a conexión. Por ejemplo si usted necesita que se mantenga un orden.
+- Los servicios no orientados a la conexión, no es necesario que se mantenga información del proceso por ejemplo.
+- El profesor menciona que en distintas capas pueden haber diversas reglas o bloqueos, no es lo mejor pero al fin y al cabo así se dan.  
+  ![alt text](/Apuntes%20de%20clase/Imágenes/image-1.png)
+
+# Servicios
+
+- # Primitivos:
+
+  ![alt text](/Apuntes%20de%20clase/Imágenes/image-2.png)
+
+- Ejemplo gráfico de que ambos lados necesitan implementar la misma versión, los mismos pasos y el mismo protocolo:
+  ![alt text](/Apuntes%20de%20clase/Imágenes/image-3.png)
+
+# Modelo OSI
+
+- 7 capas.
+- Posee tres conceptos centrales:
+  - servicios.
+  - interfaz.
+  - protocolos.
+- Es necesario aprenderse el nombre de las capas, SÍ.
+- Posee un intermediario, un tipo operadora que tiene varias salidas, también notese que por Layer puede haber una cosa física y por parte del que recibe puede tener otra forma física, por ejemplo si son wifi o por cable.  
+  ![alt text](/Apuntes%20de%20clase/Imágenes/image-4.png)
+- Nadie pudo implementarlo por diversos problemas, pero es el santo grial al que aspiramos llegar. Una de las razones fue la política pues se desarrollaba en Europa.
+
+# TCP/IP
+
+![alt text](/Apuntes%20de%20clase/Imágenes/image-5.png)
+
+- Posee 5 capas, no posee apartado físico.
+
+- Es el que se usa mayormente a día de hoy, aprenderse los números de capa igual, por ejemplo la capa 7 sigue siendo aplicación. Importante que capa 3 sigue siendo red o internet, da igual decir cuálquiera.
+
+![alt text](/Apuntes%20de%20clase/Imágenes/image-6.png)
+
+-
+- Se vuelve el standard y open source.
+- Surgen problemas como quién dicta los estándares, o quién dice qué paises las respetan.
+- WIFI Alliance.
+- ONF
+- Dos categorías de estándars:
+
+  - De facto.
+  - De jure.
+
+- ISO (International standards Organization)
+- Nace el IAB como descendiente de ARPANET o sea, gobierno.
