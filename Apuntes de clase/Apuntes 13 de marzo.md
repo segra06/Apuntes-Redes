@@ -136,7 +136,7 @@
 
 ![alt text](/Apuntes%20de%20clase/Imágenes/image-6.png)
 
--
+
 - Se vuelve el standard y open source.
 - Surgen problemas como quién dicta los estándares, o quién dice qué paises las respetan.
 - WIFI Alliance.
