@@ -6,14 +6,14 @@
 # Cables
 
 - Cable coaxial, años 70, la calidad del cobre y del equipo era bastante mala, nace la era de lo electrónico... El problema es que un alto voltaje podía quemar los equipos, ahí es donde nace este cable, por eso el grosor del cobre, tiene 3 capas antes del cobre, una de esas capas es la maya de aluminio. El color negro funciona como aislante de la luz. Por dentro posee una capa blanca de pvc mpas resistente, resiste hasta 90 grados.
-  Las primeras computadoras conectadas en red utilizaban cable coaxial.
+  Las primeras computadoras conectadas en red utilizaban cable coaxial. Varios cientos de metros.
 
 - Importa la capa física con enlace, dependiendo del largo del cable debe de pensar en la resistencia.
   Nace el primer cable transoceanico, de cobre. Comunicaba New York y Londres.
 
 - Con geles y cremas dieléctricas para repeler el agua.
 
-- **Cables telefónicos**: Cable de cobre con chaqueta. Posee una cabecilla que tiene una guía con canales pequeños que llevan hasta las cuchillas. Nace el RJ11, este es el conector. Para estos cables nace la idea de 4 cables, uno izquierdo y derecho para cada lado de la llamada, con el problema de que se pasaban los electrones de un lado a otro, creandose **crosstalk** que es que se pasan de un lado a otro. El tipo de cable se llama Par Prensado o TP. Este minimiza, no elimina que los e se pasen de cable. A día de hoy solo se utiliza uno de estos dos cables trenzados, el otro está muerto.
+- **Cables telefónicos**: Cable de cobre con chaqueta. Posee una cabecilla que tiene una guía con canales pequeños que llevan hasta las cuchillas. Nace el RJ11, este es el conector. Para estos cables nace la idea de 4 cables, uno izquierdo y derecho para cada lado de la llamada, con el problema de que se pasaban los electrones de un lado a otro, creandose **crosstalk** que es que se pasan de un lado a otro. El tipo de cable se llama Par Prensado o TP. Este minimiza, no elimina que los e se pasen de cable. A día de hoy solo se utiliza uno de estos dos cables trenzados, el otro está muerto. El límite son 100m.
   ![alt text](/Apuntes%20de%20clase/Imágenes/stp.png)
 
 - Según las necesidades de datos, se cambia tanto el cable, ahora tiene 4 y 4 y la cabecilla pasa de RJ11 a RJ45:
