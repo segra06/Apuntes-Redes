@@ -9,6 +9,8 @@
 - Buscadores en la web y celulares inteligentes muestran información desde varios sitios web.
 
 - ¿Que hace una aplicación una aplicación web?
+  
+  - Una aplicación web es un software que se ejecuta en un servidor y se accede a través de un navegador web mediante una red, como Internet o una intranet. Estas aplicaciones permiten a los usuarios interactuar con contenido o servicios en línea sin necesidad de instalar software adicional en sus dispositivos.
 
 - Modelo cliente-servidor:
 
@@ -16,7 +18,7 @@
   - Aún después de 50 años se sigue usando, en especial para web.
   - Dos maquinas que están conectadas.
   - Modelo: cliente hace solicitud, la pasa por la red, el servidor recibe, transforma, devuelve mediante la red y el cliente la recibe.
-  - Podríamos tener una red de puros clientes sirviendose a sí mismos.
+  - Podríamos tener una red de puros clientes sirviendose a sí mismos. (Utopía)
 
 - Persona a Persona
   - Mensajes instantaneos.
