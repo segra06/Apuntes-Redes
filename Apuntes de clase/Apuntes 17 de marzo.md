@@ -27,4 +27,56 @@ En el contexto de cables de red, straight-through y crossover son dos tipos de c
 
 patch cord se traduce como cable de parcheo o simplemente cable de red. Es un cable corto, generalmente con conectores RJ45 en ambos extremos, que se utiliza para conectar dispositivos de red, como computadoras, switches, routers o paneles de parcheo (patch panels).
 
+# Laser
+
+Un **láser** (Light Amplification by Stimulated Emission of Radiation) es un dispositivo que emite luz coherente, monocromática y altamente concentrada mediante un proceso de amplificación óptica basado en la emisión estimulada de radiación.
+
+### Características principales:
+
+- **Coherencia**: Los fotones emitidos están en fase, lo que permite que la luz sea altamente direccional.
+- **Monocromaticidad**: La luz tiene una sola longitud de onda (color).
+- **Alta intensidad**: La energía está concentrada en un haz estrecho.
+
+### Usos en telecomunicaciones:
+
+- Transmisión de datos a través de fibras ópticas.
+- Comunicación de alta velocidad y larga distancia.
+- Aplicaciones en redes ópticas y láseres de semiconductores para enlaces de datos.
+
+Recordar que los espejos son vitales para todo esto. LED.
+
+## Medios no guiados
+
+Los medios no guiados son aquellos que no requieren un medio físico para la transmisión de datos, ya que utilizan el espacio libre como canal de comunicación. Estos medios son esenciales para las comunicaciones inalámbricas.
+
+### Tipos principales:
+
+1. **Ondas de radio**:
+  - Utilizadas en redes Wi-Fi, Bluetooth, y comunicaciones móviles.
+  - Pueden cubrir largas distancias dependiendo de la frecuencia y potencia de transmisión.
+  - Sensibles a interferencias y obstáculos físicos.
+
+2. **Microondas**:
+  - Utilizadas en enlaces punto a punto y comunicaciones satelitales.
+  - Requieren una línea de vista directa entre los transmisores y receptores.
+  - Alta capacidad de transmisión de datos.
+
+3. **Infrarrojo**:
+  - Utilizado en controles remotos y comunicaciones de corto alcance.
+  - Requiere línea de vista directa y no atraviesa obstáculos.
+
+4. **Láser**:
+  - Utilizado para enlaces ópticos inalámbricos.
+  - Alta velocidad de transmisión, pero requiere alineación precisa y es sensible a condiciones climáticas.
+
+### Ventajas:
+- No requieren infraestructura física como cables.
+- Flexibilidad para establecer conexiones en áreas remotas o de difícil acceso.
+
+### Desventajas:
+- Mayor susceptibilidad a interferencias y condiciones ambientales.
+- Limitaciones en la seguridad debido a la naturaleza abierta del medio.
+
+Estos medios son fundamentales en la era de las comunicaciones inalámbricas, permitiendo la conectividad en una amplia gama de aplicaciones.
+
 # Categorías del UTP
