@@ -29,6 +29,12 @@ El **multipath** ocurre cuando una señal inalámbrica se refleja en varias supe
 ### 🔹 **¿Cómo lo usa Dina Katabi como una oportunidad?**  
 En lugar de verlo como un problema, Katabi y su equipo aprovecharon el efecto multipath para detectar **movimientos y signos vitales** sin contacto, como lo hace **Vital Radio**.  
 
+El **multipath** ocurre cuando una señal inalámbrica se refleja en varias superficies antes de llegar al receptor, lo que puede causar interferencias y distorsión.  
+
+  
+En lugar de verlo como un problema, Katabi y su equipo aprovecharon el efecto multipath para detectar **movimientos y signos vitales** sin contacto, como lo hace **Vital Radio**. El **multipath** ocurre cuando una señal inalámbrica se refleja en varias superficies antes de llegar al receptor, lo que puede causar interferencias y distorsión.  
+
+
 💡 **¿Cómo lo logra?**  
 1. **Análisis de variaciones en las señales**: En lugar de filtrar los reflejos no deseados, estudian cómo cambian las señales debido a la respiración y los latidos del corazón.  
 2. **Monitoreo a través de paredes**: Como las señales se reflejan en múltiples direcciones, pueden detectar personas sin necesidad de cámaras o sensores en el cuerpo.  

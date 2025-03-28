@@ -79,4 +79,7 @@ Los medios no guiados son aquellos que no requieren un medio físico para la tra
 
 Estos medios son fundamentales en la era de las comunicaciones inalámbricas, permitiendo la conectividad en una amplia gama de aplicaciones.
 
+
+
+
 # Categorías del UTP
